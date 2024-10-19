@@ -1,0 +1,21 @@
+
+/* Common declarations */
+.button-one,
+.button-two{
+    font-size: 28px;
+    font-family: "Helvetica", 'Times New Roman', sans-serif;
+}
+
+
+
+
+/* Unique Declarations */
+.button-one{
+    background-color: black;
+    color: white;
+}
+
+/* Unique Declarations */
+.button-two{
+    background-color: yellow;
+}
